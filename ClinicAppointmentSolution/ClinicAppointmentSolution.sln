@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAppointmentApp", "ClinicAppointmentApp\ClinicAppointmentApp.csproj", "{1834ED51-6ADF-4C02-B836-4F98583CFCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicModelsLibrary", "ClinicModelsLibrary\ClinicModelsLibrary.csproj", "{46CFF46A-CC5A-4D20-8FFE-E79923463FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1834ED51-6ADF-4C02-B836-4F98583CFCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1834ED51-6ADF-4C02-B836-4F98583CFCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1834ED51-6ADF-4C02-B836-4F98583CFCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1834ED51-6ADF-4C02-B836-4F98583CFCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CFF46A-CC5A-4D20-8FFE-E79923463FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CFF46A-CC5A-4D20-8FFE-E79923463FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CFF46A-CC5A-4D20-8FFE-E79923463FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CFF46A-CC5A-4D20-8FFE-E79923463FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD398FC-35D2-4B10-A9D1-B4FA9359DAC1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.dll
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.pdb
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.dll
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.pdb

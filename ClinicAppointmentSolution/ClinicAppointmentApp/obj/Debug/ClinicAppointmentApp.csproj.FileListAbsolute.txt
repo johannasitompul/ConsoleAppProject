@@ -1,0 +1,10 @@
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\bin\Debug\ClinicAppointmentApp.exe.config
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\bin\Debug\ClinicAppointmentApp.exe
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\bin\Debug\ClinicAppointmentApp.pdb
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\bin\Debug\ClinicModelsLibrary.dll
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\bin\Debug\ClinicModelsLibrary.pdb
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\obj\Debug\ClinicAppointmentApp.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\obj\Debug\ClinicAppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\obj\Debug\ClinicAppointmentApp.csproj.CopyComplete
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\obj\Debug\ClinicAppointmentApp.exe
+C:\Users\johan\source\repos\ClinicAppointmentSolution\ClinicAppointmentApp\obj\Debug\ClinicAppointmentApp.pdb
