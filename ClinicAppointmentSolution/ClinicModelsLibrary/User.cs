@@ -15,11 +15,6 @@ namespace ClinicModelsLibrary
         public string Type { get; set; }
         public string Password { get; set; }
 
-        public User()
-        {
-            
-        }
-
         public virtual void GetUserData(string id)
         {
             UserId = id;

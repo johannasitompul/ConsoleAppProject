@@ -38,11 +38,13 @@ namespace ClinicAppointmentApp
             while (u != null)
             {
                 Console.Write("User ID taken. Please enter another user ID : ");
-                u = GetUserById(Console.ReadLine());
+                id = Console.ReadLine();
+                u = GetUserById(id);
             }
             user.GetUserData(id);
             users.Add(user);
             Console.WriteLine("Registration successful. Please login to proceed.");
+
         }
 
         public void DisplayAllUsers()

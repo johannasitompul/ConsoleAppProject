@@ -26,7 +26,7 @@ namespace ClinicAppointmentApp
         // get doctor id from user and check if doctor id exist
         public string GetCheckDoctorId(ManageUser mu)
         {
-            Console.Write("Enter doctor's ID : ");
+            Console.Write("\nEnter doctor's ID : ");
             User u = mu.GetUserById(Console.ReadLine());
             while (u == null || u.Type != "Doctor")
             {
